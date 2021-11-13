@@ -3,8 +3,8 @@ This is a React front end client that communicates with the Spotify API.
 If you wish to run the code locally run the following.
 
 ```
-On Terminal use this command:
-npm install
+On Terminal use this command (inside the SpotifyWebAPI-main folder):
+npm install 
 cd src
 npm start
 visit http://localhost:3000
