@@ -1,0 +1,27 @@
+.modals {
+    position: fixed;
+    top: 50;
+    left: 50;
+    width: 22%;
+    height: 100%;
+    background: rgba(255, 255, 255, 255);
+  }
+  
+  .modal-main {
+    position: fixed;
+    background: #06a83f;
+    width: 22%;
+    height: auto;
+    top:80%;
+    left:50%;
+    transform: translate(-50%,-50%);
+  }
+  
+  .display-block {
+    display: block;
+    
+  }
+  
+  .display-none {
+    display: none;
+  }
