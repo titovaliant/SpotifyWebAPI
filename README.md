@@ -4,9 +4,9 @@ If you wish to run the code locally run the following.
 
 ```
 On Terminal use this command (inside the SpotifyWebAPI-main folder):
-npm install 
-cd src
-npm start
+~npm install 
+~cd src
+~npm start
 visit http://localhost:3000
 ```
 i've done to create a simple React app that utilizes spotify web api (https://developer.spotify.com/documentation/web-api/reference/#reference-index).
